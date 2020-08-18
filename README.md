@@ -13,6 +13,10 @@
 
 [<img src="https://img.shields.io/badge/Linkedin-remcohalman-blue?logo=linkedin&style=for-the-badge">](https://www.linkedin.com/in/remco-halman-30a13334/)
 
+____
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=remcohalman&show_icons=true" /></p>
+
+
 <!--
 **RemcoHalman/RemcoHalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
