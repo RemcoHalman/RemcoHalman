@@ -14,9 +14,16 @@
 [<img src="https://img.shields.io/badge/Linkedin-remcohalman-blue?logo=linkedin&style=for-the-badge">](https://www.linkedin.com/in/remco-halman-30a13334/)
 
 ____
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=remcohalman&show_icons=true" /></p>
 
-
+<table>
+  <tr>
+    <td>
+      <p align=""><img width="" src="https://github-readme-stats.vercel.app/api?username=remcohalman&show_icons=true" /></p>
+    </td>
+    <td><img height="180em" width="" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=remcohalman&theme=buefy&layout=compact&title_color=000000&bg_color=FFFFFF&text_color=000000">
+    </td>
+    </tr>
+  </table>
 <!--
 **RemcoHalman/RemcoHalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
