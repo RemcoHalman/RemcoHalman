@@ -1,6 +1,6 @@
 <img align="center" src="https://raw.githubusercontent.com/RemcoHalman/RemcoHalman/master/images/header_image.png" />
 
-<h1 align="center"> <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e473xpgxrcwo275mhx1r4o2bi5nh8rmhib6d09r7ve2&rid=giphy.gif" width="40px"> About Me </h1>
+<h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
 
 - I'm aspiring 🔭️ App Developer currently learning and developing in _Django_.
 - I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
