@@ -16,6 +16,7 @@
 
 ![Django](https://img.shields.io/badge/-Django-003f2c?style=for-the-badge&logo=django&logoColor=fff&labelColor=003f2c)
 ![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask&labelColor=000&logoColor=fff)
+![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 
 <h2 align="center">⚙️ Tools</h2>
 
