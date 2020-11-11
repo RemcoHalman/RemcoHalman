@@ -14,9 +14,10 @@
 ![Python](https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 
+![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-003f2c?style=for-the-badge&logo=django&logoColor=fff&labelColor=003f2c)
-![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask&labelColor=000&logoColor=fff)
 ![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![Sass](https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
 
 <h2 align="center">⚙️ Tools</h2>
 
@@ -24,7 +25,7 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Mac](https://img.shields.io/badge/-apple-333333?style=for-the-badge&logo=apple)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
-
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 
 <h2 align="center"> How to reach me </h2>
 
