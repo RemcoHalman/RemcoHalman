@@ -1,10 +1,6 @@
 <img align="center" src="https://raw.githubusercontent.com/RemcoHalman/RemcoHalman/master/images/header_image.png" />
 
-<h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
-
-- 🔭️ App Developer currently learning _Vue_ and developing in _Django_.
-- I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
-- 👯 I’m looking to collaborate on Web Dev projects
+<!-- <h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1> -->
 
 <h2 align="center">🛠️ Languages & Frameworks</h2>
 
